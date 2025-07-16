@@ -1,2 +1,2 @@
 # courses
-The lab courses that I have taught 
+This repository archives lab courses materials that I have taught 
