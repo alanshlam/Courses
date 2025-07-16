@@ -1,6 +1,5 @@
 # courses
-This repository archives lab courses materials that I have taught and talks materials that I have delivered
-
+This repository archives materials from lab courses I have taught and talks I have delivered.
 
 ### [Information Infrastructure Design Lab](IIDLab.pdf)
 ### [System Administration and CyberSecurity](SysAdmSec.pdf)
