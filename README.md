@@ -1,7 +1,7 @@
 # courses
 
 ## Proposed new lab courses
-### [Hands-On Network Security and System Administration Lab](nssalab.pdf)
+### [Hands-On Network Security and System Administration Lab](nsaslab.pdf)
 
 ## Lab courses I have taught and talks I have delivered.
 
