@@ -10,3 +10,7 @@
 
 ## Lab courses notes
 ### [Network Protocol Review](slides/Lab_sup1.pdf)
+### [Domain Name System (DNS)](slides/DNS_sup.pdf)
+### [Public Key Infrastructure(PKI)](slides/pki_ref.pdf)
+### [IPV4 Subnetting](slides/ipv4-subnetting.pdf)
+### [Linux Commands for Beginners](slides/linux_command.pdf)
