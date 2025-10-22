@@ -1,8 +1,10 @@
 # courses
 
 ## Proposed new lab courses
-### [Hands-On Network Security and System Administration Lab](https://alanshlam.github.io/lab/nsaslab.pdf)
+### [Hands-On Network Security and System Administration Lab outline](https://alanshlam.github.io/lab/nsaslab.pdf)
+### [Hands-On Network Security and System Administration Lab introduction slides](https://alanshlam.github.io/lab/proposed_course_intro.pdf)
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;See the demo videos on my YouTube channel: [https://youtu.be/b4hfGaglrys](https://youtu.be/b4hfGaglrys) and [https://youtu.be/x8QnnHYeG08](https://youtu.be/x8QnnHYeG08)
+
 
 ## Lab courses I have taught.
 ### [Information Infrastructure Design Lab](https://alanshlam.github.io/lab/IIDLab.pdf)
