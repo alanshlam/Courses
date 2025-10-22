@@ -10,9 +10,9 @@
 ### [Networking Lab](https://alanshlam.github.io/lab/NetworkingLab.pdf)
 
 ## Lab courses notes
-### [Network Protocol Review](slides/Lab_sup1.pdf)
-### [Domain Name System (DNS)](slides/DNS_sup.pdf)
-### [Public Key Infrastructure(PKI)](slides/pki_ref.pdf)
-### [IPV4 Subnetting](slides/ipv4-subnetting.pdf)
+### [Network Protocol Review](https://alanshlam.github.io/lab/Lab_sup1.pdf)
+### [Domain Name System (DNS)](https://alanshlam.github.io/lab/DNS_sup.pdf)
+### [Public Key Infrastructure(PKI)](https://alanshlam.github.io/lab/pki_ref.pdf)
+### [IPV4 Subnetting](https://alanshlam.github.io/lab/ipv4-subnetting.pdf)
 ### [Subnet calculator](https://alanshlam.github.io/lab/subnet.html)
-### [Linux Commands for Beginners](slides/linux_command.pdf)
+### [Linux Commands for Beginners](https://alanshlam.github.io/lab/linux_command.pdf)
