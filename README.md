@@ -6,7 +6,7 @@
 
 ## Lab courses I have taught.
 ### [Information Infrastructure Design Lab](https://alanshlam.github.io/lab/IIDLab.pdf)
-### [System Administration and CyberSecurity](https://alanshlam.github.io/lab/SysAdmSec.pdf))
+### [System Administration and CyberSecurity](https://alanshlam.github.io/lab/SysAdmSec.pdf)
 ### [Networking Lab](https://alanshlam.github.io/lab/NetworkingLab.pdf)
 
 ## Lab courses notes
