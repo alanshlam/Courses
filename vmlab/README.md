@@ -81,7 +81,10 @@ By completing this lab course, students will be able to:
 ## 📺 Related YouTube Video
 
 🎥 **Watch the video walkthrough:**  
-[Ultimate Hands-On Lab Course: Network Administration, Cybersecurity & AI-Powered Forensics on Ubuntu VM](#)
+
+[Ultimate Hands-On Lab Course: Network Administration, Cybersecurity & AI-Powered Forensics on Ubuntu VM](https://youtu.be/yC74MeIvmws?si=ohrvyEmBFMuhB_LU)
+
+[Cloud Migration for Virtual Labs: ESXi to Cloud Showcase](https://youtu.be/b4hfGaglrys)
 
 ---
 
