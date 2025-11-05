@@ -97,7 +97,8 @@ By completing this lab course, students will be able to:
 
 ---
 
-📘 **Author:** *Alan S.H. Lam*  
+📘 **Author:** [*Alan S.H. Lam*](mailto:alan-lam@link.cuhk.edu.hk) 
+
 🧩 **Course Type:** Practical / Hands-On Lab  
 🖥️ **Platform:** Ubuntu 24.04 on VMware Workstation  
 
