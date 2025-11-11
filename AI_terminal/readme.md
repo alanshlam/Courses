@@ -7,7 +7,7 @@ This project demonstrates how AI Terminals — such as Gemini CLI
  and OpenCode
  — can revolutionize system and application setup automation in both IT administration and educational lab environments.
 
-Unlike general AI coding assistants on web interface, AI Terminals focus on automating real-world system configurations, verifying environment setups, and generating auto setup scripts and lab manuals that adapt to changes in OS or software environments.
+Unlike general AI coding assistants on web interface,  AI Terminals focus on automating real-world system configurations, verifying environment setups, and generating auto setup scripts and lab manuals that adapt to changes in OS or software environments.
 
 ---
 🎯 Key Features
