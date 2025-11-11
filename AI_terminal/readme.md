@@ -51,6 +51,7 @@ Updating IT training course materials and installation manuals
 - see the examples of lab manual of setting up [mrtg](mrtg_setup_mannual.pdf) and [ntopng](ntopng_lab_manual.pdf)
 
 Automating multi-step software or service setup on Linux or Windows
+- see the examples of setup scripts for [mrtg](setup_mrtg.sh) and [ntopng](setup_ntopng.sh)
 
 Validating configuration consistency across distributed systems
 
