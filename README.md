@@ -1,5 +1,7 @@
 # courses
 
+## 🚀 [Automate System & Lab Setup with AI Terminal](/AI_terminal)
+
 ## Proposed new lab courses
 ### [Hands-On Network Security and System Administration Lab introduction slides](https://alanshlam.github.io/lab/proposed_course_intro.pdf)
 ### [Hands-On Network Security and System Administration Lab outline](https://alanshlam.github.io/lab/nsaslab.pdf)
