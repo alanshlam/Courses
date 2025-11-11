@@ -44,6 +44,7 @@ OpenCode
 Setting up student lab VMs or network monitoring environments
 
 Updating IT training course materials and installation manuals
+- see the examples of lab manual of setting up [mrtg](mrtg_setup_mannual.pdf) and [ntopng](ntopng_lab_manual.pdf)
 
 Automating multi-step software or service setup on Linux or Windows
 
