@@ -64,7 +64,7 @@ Collaboration and feedback are always welcome!
 ---
 📺 Watch the Demo Video
 
-👉 YouTube: Automate System Setup & Lab Environments with AI Terminal
+👉 YouTube: [Automate System Setup & Lab Environments with AI Terminal](https://youtu.be/TZUHK5-Aic0) at https://youtu.be/TZUHK5-Aic0
 
 Learn how to use Gemini CLI and OpenCode to run, verify, and update your setups — all automatically!
 
