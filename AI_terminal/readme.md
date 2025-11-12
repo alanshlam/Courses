@@ -48,7 +48,7 @@ OpenCode
 Setting up student lab VMs or network monitoring environments
 
 Updating IT training course materials and installation manuals
-- see the examples of lab manual of setting up [mrtg](mrtg_setup_mannual.pdf) , [ntopng](ntopng_lab_manual.pdf) , and [nagios](nagios_setup_manual.md)
+- see the examples of lab manual of setting up [mrtg](mrtg_setup_mannual.md) , [ntopng](ntopng_lab_manual.md) , and [nagios](nagios_setup_manual.md)
 
 Automating multi-step software or service setup on Linux or Windows
 - see the examples of setup scripts for [mrtg](setup_mrtg.sh) , [ntopng](setup_ntopng.sh), and [nagios](setup_nagios.sh)
