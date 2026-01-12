@@ -17,7 +17,7 @@
 ### [Networking Lab](https://alanshlam.github.io/lab/NetworkingLab.pdf)
 
 ---
-## Lab courses notes
+## Course Web Apps and Lab courses notes
 ### [🧰 Web Apps For Raising Cybersecurity Awareness](https://alanshlam.github.io/course/s1/)
 ### [Network Protocol Review](https://alanshlam.github.io/lab/Lab_sup1.pdf)
 ### [Domain Name System (DNS)](https://alanshlam.github.io/lab/DNS_sup.pdf)
